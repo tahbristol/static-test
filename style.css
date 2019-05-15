@@ -1,0 +1,15 @@
+h1 {
+	background-color: magenta;
+}
+
+body {
+	font-size: 20px;
+}
+#section_1 {
+	background-color: red;
+}
+
+#section_2 {
+	background-color: purple;
+	color: white;
+}
